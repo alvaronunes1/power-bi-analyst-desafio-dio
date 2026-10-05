@@ -69,14 +69,13 @@ de Dados.
 
 ### Página 1
 
-![Página 1 do dashboard](imagens/pagina-1.png)
+![Página 1 do dashboard](imagens/Pagina%201.png)
 
 ### Página 2
 
-![Página 2 do dashboard](imagens/pagina-2.png)
+![Página 2 do dashboard](imagens/Pagina%202.png)
 
 ### Página 3
 
-![Página 3 do dashboard]
-<img width="1415" height="792" alt="image" src="https://github.com/user-attachments/assets/58799d69-44bf-4984-86b6-d2094200af57" />
+![Página 3 do dashboard](imagens/Pagina%203.png)
 
