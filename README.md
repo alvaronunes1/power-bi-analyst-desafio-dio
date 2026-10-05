@@ -69,13 +69,13 @@ de Dados.
 
 ### Página 1
 
-![Página 1 do dashboard](imagens/Pagina%201.png)
+![Página 1 do dashboard](imagens/pagina-1.png)
 
 ### Página 2
 
-![Página 2 do dashboard](imagens/Pagina%202.png)
+![Página 2 do dashboard](imagens/pagina-2.png)
 
 ### Página 3
 
-![Página 3 do dashboard](imagens/Pagina%203.png)
+![Página 3 do dashboard](imagens/pagina-3.png)
 
