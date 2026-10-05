@@ -64,3 +64,19 @@ organização de dashboards.
 Este projeto representa uma das primeiras experiências práticas
 com Power BI e faz parte da minha jornada de aprendizado na área
 de Dados.
+
+## 📊 Dashboard
+
+### Página 1
+
+![Página 1 do dashboard](imagens/pagina-1.png)
+
+### Página 2
+
+![Página 2 do dashboard](imagens/pagina-2.png)
+
+### Página 3
+
+![Página 3 do dashboard]
+<img width="1415" height="792" alt="image" src="https://github.com/user-attachments/assets/58799d69-44bf-4984-86b6-d2094200af57" />
+
