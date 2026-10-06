@@ -65,9 +65,11 @@ Este projeto representa uma das primeiras experiências práticas
 com Power BI e faz parte da minha jornada de aprendizado na área
 de Dados.
 
-## 📊 Dashboard
+## 📊 Relatório desenvolvido no desafio
 
-### Página 1
+O projeto desenvolvido durante o desafio da DIO consiste em um
+relatório composto por três páginas, explorando diferentes
+visuais e análises de dados.
 
 ![Página 1 do dashboard](imagens/pagina-1.png)
 
@@ -79,3 +81,12 @@ de Dados.
 
 ![Página 3 do dashboard](imagens/pagina-3.png)
 
+---
+
+## 📈 Dashboard adicional — Análise de Vendas
+
+Como projeto complementar, desenvolvi um dashboard de vendas
+em página única, reunindo diferentes indicadores e visualizações
+para uma visão geral dos resultados.
+
+![Dashboard de Vendas](imagens/dashboard-vendas-fantasias.png)
